@@ -1,6 +1,8 @@
 # difMH
 Mantel-Haenszel DIF method Use difMH (difR) With (In) R Software
 
+https://www.youtube.com/watch?v=tpqpr7SQSEo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
